@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ashutosh Agrawal</h1>
+<h1 align="left">👀Im Intersted in C,C++,etc.</h1>
 <h3 align="center">I'm Currently Learning C++</h3>
 </img align="right" alt"coding" width"100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
